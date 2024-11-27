@@ -4,7 +4,7 @@ import PrimaryTemplate from "../templates/PrimaryTemplate.vue";
 
 <template>
   <primary-template header-img="alien-title.jpg">
-    <h1>Welcome!</h1>
+    <h1>Welcome to my site!</h1>
   </primary-template>
 </template>
 
