@@ -18,4 +18,16 @@ import PrimaryTemplate from "../templates/PrimaryTemplate.vue";
 
 <style scoped>
 
+h1 {
+  text-align: center;
+}
+
+p {
+  margin: 5px;
+  border: rebeccapurple solid 5px;
+  border-radius: 10px;
+  padding: 3px;
+  text-align: center;
+}
+
 </style>

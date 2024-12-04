@@ -43,7 +43,6 @@ section.primary-template {
   header {
     div.header-img {
       border: 1px solid white;
-      //background-repeat: repeat-y;
       background-size: cover;
       background-position: center;
       min-height: 50vh;
