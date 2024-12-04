@@ -1,5 +1,6 @@
 <script setup>
 import PrimaryTemplate from "../templates/PrimaryTemplate.vue";
+import Carousel from "./Carousel.vue";
 </script>
 
 <template>
