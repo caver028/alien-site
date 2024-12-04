@@ -8,6 +8,7 @@ const aliens=[
     "nature": "Calm",
     "photo": "path/to/photo",
     "leg_number": 2,
+
     "enemies": "fears nothing"
   },
   {

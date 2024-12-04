@@ -25,17 +25,21 @@ const router = createRouter({
             component: AboutDesigner
         },
         {
-            path: '/alien',
+            path: '/aliens',
             name: 'Alien',
-            component: Alien,
             children: [
                 {
-                    name: "AlienDetails",
+                    path: '',
+                    name: 'AllAliens',
+                    component: Alien
+                },
+                {
                     path: 'details/:id',
+                    name: "AlienDetails",
                     component: AlienDetails,
                 }
             ]
-        },
+        }
     ]
 })
 

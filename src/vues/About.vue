@@ -38,10 +38,11 @@ h1 {
 
 p {
   margin: 5px;
-  border: rebeccapurple solid 5px;
+  border: darkgrey solid 5px;
   border-radius: 10px;
   padding: 3px;
   text-align: center;
+  background-color: darkgrey;
 }
 
 </style>
