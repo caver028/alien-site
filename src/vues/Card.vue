@@ -31,7 +31,7 @@ section.card {
   width: 100%;
   gap: 1rem;
   padding: 0.5rem;
-
+  }
 
   .left-side, .right-side {
     display: flex;
@@ -61,6 +61,5 @@ section.card {
       font-weight: bold;
     }
   }
-}
 </style>
 

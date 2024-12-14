@@ -7,7 +7,6 @@ import PrimaryTemplate from "../templates/PrimaryTemplate.vue";
 <template>
   <primary-template header-img="sea-waves.jpg">
     <h1>Welcome to Alien Planet, Select an Alien to Begin a Virtual Voyage</h1>
-
     <p v-for="(alien, index) in alien_data.aliens" :key="index">
       <card :alien="alien"/>
     </p>

@@ -6,7 +6,7 @@ const aliens=[
     "size": "Huge",
     "color": "Brown",
     "nature": "Calm",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/sea-strider.png",
     "leg_number": 2,
     "enemies": "fears nothing"
   },
@@ -17,7 +17,7 @@ const aliens=[
     "size": "Huge",
     "color": "Tan",
     "nature": "Calm",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/grove-back.png",
     "leg-number": 2,
     "enemies": "Beach Quills"
   },
@@ -28,7 +28,7 @@ const aliens=[
     "size": "Medium",
     "color": "Purple",
     "nature": "Inquisitive",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/eosapien.png",
     "leg-number": 0,
   },
   {
@@ -38,7 +38,7 @@ const aliens=[
     "size": "Medium",
     "color": "Black",
     "nature": "Aggressive",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/arrow-tongue.png",
     "leg-number": 2,
   },
   {
@@ -48,7 +48,7 @@ const aliens=[
     "size": "Medium",
     "color": "Blue",
     "nature": "Territorial",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/bladderhorn.png",
     "leg-number": 2,
   },
   {
@@ -58,7 +58,7 @@ const aliens=[
     "size": "Medium",
     "color": "Orange",
     "nature": "Opportunist",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/daggerwrist.png",
     "leg-number": 4,
   },
   {
@@ -68,7 +68,7 @@ const aliens=[
     "size": "Medium",
     "color": "Brown",
     "nature": "Flighty",
-    "photo": "path/to/photo",
+    "photo": "gyrosprinter",
     "leg-number": 2,
   },
   {
@@ -78,7 +78,7 @@ const aliens=[
     "size": "Medium",
     "color": "Orange",
     "nature": "Social",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/pronghead.png",
     "leg-number": 2,
   },
   {
@@ -88,7 +88,7 @@ const aliens=[
     "size": "Big",
     "color": "Black",
     "nature": "Social",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/skewer.png",
     "leg-number": 0,
   },
   {
@@ -98,7 +98,7 @@ const aliens=[
     "size": "Medium",
     "color": "Light Orange",
     "nature": "Competitive",
-    "photo": "path/to/photo",
+    "photo": "../assets/images/unth.png",
     "leg-number": 2,
   }
 ]

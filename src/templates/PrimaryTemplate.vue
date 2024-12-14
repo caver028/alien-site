@@ -13,7 +13,6 @@ defineProps({
     <header>
       <div class="header-img" :style="'background-image: url(../src/assets/' + headerImg + ');'">
       </div>
-
       <nav>
         <router-link :to="{ name: 'Home' }">Home</router-link>
         <router-link :to="{ name: 'Alien' }">Alien</router-link>
@@ -21,7 +20,6 @@ defineProps({
         <router-link :to="{ name: 'AboutDesigner' }">Designer</router-link>
       </nav>
     </header>
-
 
     <section class="main">
       <slot>Welcome to my site!</slot>
@@ -53,6 +51,7 @@ section.primary-template {
     background-color: white;
     text-align: left;
     height: auto;
+
 
     img {
       width: 100%;
