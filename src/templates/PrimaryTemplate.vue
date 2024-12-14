@@ -5,7 +5,7 @@ defineProps({
     required: true
   }
 })
-import Alien from "../vues/Alien.vue";
+
 </script>
 
 <template>
