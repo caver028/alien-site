@@ -23,11 +23,12 @@ h1 {
 }
 
 img {
-  width: 100%;
-  height: auto;
-  margin: auto;
-  display: block;
-  position: relative;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+    position: relative;
 }
 
 svg{
