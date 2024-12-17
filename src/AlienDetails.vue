@@ -33,7 +33,10 @@ onMounted(() => {
 
 <style scoped>
 svg{
-  width: 100%;
+  width: 450px;
   height: auto;
+  margin: auto;
+  display: block;
+  position: relative;
 }
 </style>

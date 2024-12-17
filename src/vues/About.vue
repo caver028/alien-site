@@ -42,7 +42,7 @@ h1 {
 }
 
 p {
-  margin: 5px;
+  margin: 40px;
   border: darkgrey solid 5px;
   border-radius: 10px;
   padding: 3px;
@@ -51,8 +51,11 @@ p {
 }
 
 svg{
-  width: 100%;
+  width: 450px;
   height: auto;
+  margin: auto;
+  display: block;
+  position: relative;
 }
 
 </style>
