@@ -33,6 +33,7 @@ section.card {
   padding: 0.5rem;
   }
 
+
   .left-side, .right-side {
     display: flex;
     flex-direction: column;
