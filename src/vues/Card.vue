@@ -12,7 +12,7 @@ defineProps({
   Alien Species: {{ alien.alien_name }}
   <section class="card">
     <aside class="left-side">
-      <div class="headshot"/>
+      <div class="headshot" />
       <span class="environment">{{ alien.environment }}</span>
     </aside>
     <aside class="right-side">
@@ -27,12 +27,11 @@ section.card {
   /* Mobile first */
   display: flex;
   border: 1px solid lightgray;
-  border-radius: 10px;
-  width: 100%;
+  border-radius: 20px;
+  width: 98.6%;
   gap: 1rem;
   padding: 0.5rem;
   }
-
 
   .left-side, .right-side {
     display: flex;
@@ -45,8 +44,8 @@ section.card {
     gap: 0.5rem;
 
     .headshot {
-      height: 120px;
-      width: 90px;
+      height: 140px;
+      width: 150px;
       background-color: lightgray;
 
       img{

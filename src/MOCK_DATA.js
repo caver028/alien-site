@@ -1,3 +1,5 @@
+import {ref} from "vue";
+
 const aliens=[
   {
     "id": "1",
@@ -6,7 +8,7 @@ const aliens=[
     "size": "Huge",
     "color": "Brown",
     "nature": "Calm",
-    "photo": "../assets/images/sea-strider.png",
+    "photo": "/assets/sea-strider.png",
     "leg_number": 2,
     "enemies": "fears nothing"
   },
