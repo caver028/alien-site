@@ -71,8 +71,8 @@ section.primary-template {
 
 
         &.router-link-active {
-          font-weight: bold;
-          text-decoration: underline;
+            font-weight: bold;
+            text-decoration: underline;
           background-color: purple;
           border-color: white;
           font-size: 105%

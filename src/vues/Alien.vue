@@ -21,7 +21,7 @@ h1 {
 p {
   margin: 5px;
   border: darkgray solid 5px;
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 3px;
   text-align: center;
 }

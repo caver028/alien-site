@@ -17,7 +17,7 @@ defineProps({
     </aside>
     <aside class="right-side">
       <div class="name">{{ alien.size }}, {{ alien.color }}</div>
-      <router-link :to=" { name: 'AlienDetails', params: { id: alien.id } }">Learn more about this alien!</router-link>
+      <router-link :to=" { name: 'AlienDetails', params: { id: alien.id } }">Learn more about this alien</router-link>
     </aside>
   </section>
 </template>

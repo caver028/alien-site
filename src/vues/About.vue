@@ -8,7 +8,7 @@ import PrimaryTemplate from "../templates/PrimaryTemplate.vue";
 
     <div class="content">
       <p>
-        The site you are currently viewing is a passion project dedicated to my favorite show as a child. It is meant to
+        The site you are currently viewing is a passion project dedicated to my favorite documentary as a kid. It is meant to
         preserve the memory of a lost website that was a big part of my childhood, so hopefully the charm of an old 2005
         website is preserved here.
       </p>
